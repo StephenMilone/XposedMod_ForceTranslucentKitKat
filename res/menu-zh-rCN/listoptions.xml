@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_global"
+        android:title="批量设置"/>
+    <item
+        android:id="@+id/action_all"
+        android:title="全部启用"/>
+    <item
+        android:id="@+id/action_none"
+        android:title="全部禁用"/>
+    <item
+        android:id="@+id/action_export"
+        android:title="导出设置"/>
+    <item
+        android:id="@+id/action_import"
+        android:title="导入设置"/>
+
+</menu>
